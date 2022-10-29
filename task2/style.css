@@ -1,0 +1,75 @@
+.register {
+    width: 400px;
+    height: 850px;
+    margin: auto;
+    background-color: rgb(120, 120, 238);
+    border-radius: 30px;
+  }
+  .h1reg {
+    text-align: center;
+    padding-top: 15px;
+  }
+  .h4reg {
+    text-align: center;
+  }
+  form {
+    width: 300px;
+    margin-left: 20px;
+    font-size: 18px;
+  }
+  form label {
+    display: flex;
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  form input {
+    width: 300px;
+    padding: 5px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+  }
+  
+  select {
+    width: 320px;
+    padding: 5px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    background-color: rgba(240, 99, 99, 0.774);
+    color: white;
+    font-size: 15px;
+  }
+  
+  select option {
+    color: white;
+    font-size: 15px;
+  }
+  input[type="submit"] {
+    width: 300px;
+    margin-top: 30px;
+    border: none;
+    background-color: rgba(38, 38, 230, 0.822);
+    color: white;
+    font-size: 15px;
+    border-radius: 6px;
+  }
+  .pregister {
+    text-align: center;
+    padding: 20px;
+    font-size: 15px;
+  }
+  .logn{
+      color: white;
+      font-size: 15px;
+      text-decoration: none;
+      
+    }
+    .success{
+      background-color: blue;
+      color: pink;
+      text-align: center;
+      font-size: 40px;
+    }
+  
